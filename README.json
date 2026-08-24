@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 931135,
                 "language": "JavaScript",
-                "last_commit": "2026-08-17T12:53:01Z",
+                "last_commit": "2026-08-24T12:53:41Z",
                 "owner": "Leaflet",
                 "repo": "Leaflet",
                 "stars": 45510
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-24T01:03:13Z",
                 "owner": "visgl",
                 "repo": "deck.gl",
-                "stars": 14512
+                "stars": 14514
               }
             },
             {
@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 8629417,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T08:37:08Z",
+                "last_commit": "2026-08-24T12:05:53Z",
                 "owner": "mapbox",
                 "repo": "mapbox-gl-js",
                 "stars": 12388
@@ -89,10 +89,10 @@
                 "archived": false,
                 "id": 319779344,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T08:46:28Z",
+                "last_commit": "2026-08-24T12:02:31Z",
                 "owner": "maplibre",
                 "repo": "maplibre-gl-js",
-                "stars": 11415
+                "stars": 11420
               }
             },
             {
@@ -209,7 +209,7 @@
                 "archived": false,
                 "id": 43068275,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T16:12:32Z",
+                "last_commit": "2026-08-24T13:32:00Z",
                 "owner": "iTowns",
                 "repo": "itowns",
                 "stars": 1266
@@ -519,7 +519,7 @@
                 "last_commit": "2026-08-22T12:59:45Z",
                 "owner": "opengeospatial",
                 "repo": "geoparquet",
-                "stars": 1080
+                "stars": 1081
               }
             },
             {
@@ -796,7 +796,7 @@
                 "last_commit": "2026-01-08T10:01:16Z",
                 "owner": "potree",
                 "repo": "potree",
-                "stars": 5585
+                "stars": 5584
               }
             },
             {
@@ -833,7 +833,7 @@
                 "last_commit": "2026-08-21T16:27:25Z",
                 "owner": "nasa-gibs",
                 "repo": "worldview",
-                "stars": 1293
+                "stars": 1312
               }
             },
             {
@@ -1010,7 +1010,7 @@
                 "last_commit": "2026-08-23T23:52:17Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78576
+                "stars": 78583
               }
             },
             {
@@ -1022,10 +1022,10 @@
                 "archived": false,
                 "id": 490985210,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T14:54:41Z",
+                "last_commit": "2026-08-24T10:35:28Z",
                 "owner": "marcelscruz",
                 "repo": "public-apis",
-                "stars": 9377
+                "stars": 9379
               }
             }
           ],
@@ -1048,10 +1048,10 @@
             "archived": false,
             "id": 1251648409,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T04:43:40Z",
+            "last_commit": "2026-08-24T14:09:51Z",
             "owner": "opengeos",
             "repo": "GeoLibre",
-            "stars": 6661
+            "stars": 6674
           }
         },
         {
@@ -1063,10 +1063,10 @@
             "archived": false,
             "id": 85241148,
             "language": "HTML",
-            "last_commit": "2026-08-24T09:24:54Z",
+            "last_commit": "2026-08-24T12:23:53Z",
             "owner": "Azgaar",
             "repo": "Fantasy-Map-Generator",
-            "stars": 5914
+            "stars": 5915
           }
         },
         {
@@ -1081,7 +1081,7 @@
             "last_commit": "2022-07-02T08:12:01Z",
             "owner": "alyssaxuu",
             "repo": "mapus",
-            "stars": 3531
+            "stars": 3532
           }
         },
         {
@@ -1093,7 +1093,7 @@
             "archived": false,
             "id": 67726921,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T04:28:40Z",
+            "last_commit": "2026-08-24T13:55:12Z",
             "owner": "maplibre",
             "repo": "maputnik",
             "stars": 2611
@@ -1198,7 +1198,7 @@
             "archived": false,
             "id": 1181844101,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T13:10:31Z",
+            "last_commit": "2026-08-24T11:44:28Z",
             "owner": "GeiserX",
             "repo": "Pumperly",
             "stars": 32
@@ -1257,10 +1257,52 @@
         }
       ],
       "title": "🎨 Colour advice"
+    },
+    {
+      "description": "Icons to add to your GIS websites:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "font-GIS",
+          "description": "A very very cool icon font set for use with GIS and spatial analysis tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 360452804,
+            "language": "CSS",
+            "last_commit": "2025-07-16T06:55:16Z",
+            "owner": "Viglino",
+            "repo": "font-gis",
+            "stars": 323
+          }
+        }
+      ],
+      "title": "📍 Icons"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A Workbook for Interactive Cartography and Visualization on the Open Web",
+          "description": "Robert Roth, Carl Sack, Gareth Baldrica-Franklin, Yuying Chen, Rich Donohue, Lily Houtman, Tim Prestby, Robin Tolochko, Nick Underwood.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 288738217,
+            "language": "JavaScript",
+            "last_commit": "2026-02-17T22:12:31Z",
+            "owner": "uwcartlab",
+            "repo": "webmapping",
+            "stars": 209
+          }
+        }
+      ],
+      "title": "📚 Further reading"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:29:53.535Z",
+    "last_updated": "2026-08-24T14:19:06.729Z",
     "original_repository": "joewdavies/awesome-frontend-gis",
     "original_repository_id": 209321064,
     "original_repository_sha": "bfa5b37155d812af7e65115248ac30f97fd869b1",
