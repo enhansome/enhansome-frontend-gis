@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T12:53:41Z",
                 "owner": "Leaflet",
                 "repo": "Leaflet",
-                "stars": 45514
+                "stars": 45515
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-25T05:13:02Z",
                 "owner": "CesiumGS",
                 "repo": "cesium",
-                "stars": 15596
+                "stars": 15599
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-24T23:15:56Z",
                 "owner": "visgl",
                 "repo": "deck.gl",
-                "stars": 14518
+                "stars": 14519
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 4723248,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T08:35:33Z",
+                "last_commit": "2026-08-25T07:35:02Z",
                 "owner": "openlayers",
                 "repo": "openlayers",
-                "stars": 12552
+                "stars": 12554
               }
             },
             {
@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 8629417,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T15:15:40Z",
+                "last_commit": "2026-08-25T08:00:21Z",
                 "owner": "mapbox",
                 "repo": "mapbox-gl-js",
                 "stars": 12388
@@ -89,10 +89,10 @@
                 "archived": false,
                 "id": 319779344,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T05:56:58Z",
+                "last_commit": "2026-08-25T08:46:16Z",
                 "owner": "maplibre",
                 "repo": "maplibre-gl-js",
-                "stars": 11422
+                "stars": 11423
               }
             },
             {
@@ -369,7 +369,7 @@
                 "last_commit": "2026-08-18T17:02:51Z",
                 "owner": "Turfjs",
                 "repo": "turf",
-                "stars": 10456
+                "stars": 10458
               }
             },
             {
@@ -444,7 +444,7 @@
                 "last_commit": "2026-08-12T11:01:46Z",
                 "owner": "proj4js",
                 "repo": "proj4js",
-                "stars": 2238
+                "stars": 2239
               }
             },
             {
@@ -474,7 +474,7 @@
                 "last_commit": "2026-07-08T18:37:38Z",
                 "owner": "mourner",
                 "repo": "flatbush",
-                "stars": 1596
+                "stars": 1597
               }
             },
             {
@@ -796,7 +796,7 @@
                 "last_commit": "2026-01-08T10:01:16Z",
                 "owner": "potree",
                 "repo": "potree",
-                "stars": 5584
+                "stars": 5585
               }
             },
             {
@@ -833,7 +833,7 @@
                 "last_commit": "2026-08-24T20:07:46Z",
                 "owner": "nasa-gibs",
                 "repo": "worldview",
-                "stars": 1542
+                "stars": 1559
               }
             },
             {
@@ -1010,7 +1010,7 @@
                 "last_commit": "2026-08-24T19:56:43Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78603
+                "stars": 78610
               }
             },
             {
@@ -1051,7 +1051,7 @@
             "last_commit": "2026-08-25T04:03:39Z",
             "owner": "opengeos",
             "repo": "GeoLibre",
-            "stars": 6699
+            "stars": 6703
           }
         },
         {
@@ -1302,7 +1302,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:09:18.238Z",
+    "last_updated": "2026-08-25T09:19:50.602Z",
     "original_repository": "joewdavies/awesome-frontend-gis",
     "original_repository_id": 209321064,
     "original_repository_sha": "bfa5b37155d812af7e65115248ac30f97fd869b1",
