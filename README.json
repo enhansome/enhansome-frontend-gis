@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-24T12:53:41Z",
                 "owner": "Leaflet",
                 "repo": "Leaflet",
-                "stars": 45525
-              }
+                "stars": 45529
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 3606738,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T18:55:41Z",
+                "last_commit": "2026-08-28T20:16:04Z",
                 "owner": "CesiumGS",
                 "repo": "cesium",
-                "stars": 15612
-              }
+                "stars": 15620
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -44,11 +46,12 @@
                 "archived": false,
                 "id": 48030204,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T17:21:22Z",
+                "last_commit": "2026-08-28T19:23:39Z",
                 "owner": "visgl",
                 "repo": "deck.gl",
-                "stars": 14529
-              }
+                "stars": 14532
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -62,8 +65,9 @@
                 "last_commit": "2026-08-26T21:40:49Z",
                 "owner": "openlayers",
                 "repo": "openlayers",
-                "stars": 12557
-              }
+                "stars": 12559
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -74,11 +78,12 @@
                 "archived": false,
                 "id": 8629417,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T14:53:15Z",
+                "last_commit": "2026-08-28T13:09:38Z",
                 "owner": "mapbox",
                 "repo": "mapbox-gl-js",
-                "stars": 12391
-              }
+                "stars": 12392
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -89,11 +94,12 @@
                 "archived": false,
                 "id": 319779344,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T13:20:26Z",
+                "last_commit": "2026-08-28T11:58:07Z",
                 "owner": "maplibre",
                 "repo": "maplibre-gl-js",
-                "stars": 11467
-              }
+                "stars": 11477
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "maptalks",
                 "repo": "maptalks.js",
                 "stars": 4533
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -122,8 +129,9 @@
                 "last_commit": "2026-07-30T10:03:41Z",
                 "owner": "antvis",
                 "repo": "L7",
-                "stars": 4056
-              }
+                "stars": 4057
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "markmarkoh",
                 "repo": "datamaps",
                 "stars": 3799
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -152,8 +161,9 @@
                 "last_commit": "2024-08-08T15:53:29Z",
                 "owner": "zcreativelabs",
                 "repo": "react-simple-maps",
-                "stars": 3310
-              }
+                "stars": 3309
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "vasturiano",
                 "repo": "globe.gl",
                 "stars": 3154
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "tangrams",
                 "repo": "tangram",
                 "stars": 2334
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -194,11 +206,12 @@
                 "archived": false,
                 "id": 17163720,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T13:54:02Z",
+                "last_commit": "2026-08-27T22:56:38Z",
                 "owner": "TerriaJS",
                 "repo": "terriajs",
                 "stars": 1358
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -213,7 +226,8 @@
                 "owner": "iTowns",
                 "repo": "itowns",
                 "stars": 1266
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -228,7 +242,8 @@
                 "owner": "d3",
                 "repo": "d3-geo-projection",
                 "stars": 1152
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -243,7 +258,8 @@
                 "owner": "d3",
                 "repo": "d3-geo",
                 "stars": 1097
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -258,7 +274,8 @@
                 "owner": "windycom",
                 "repo": "API",
                 "stars": 910
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -273,7 +290,8 @@
                 "owner": "wrld3d",
                 "repo": "wrld.js",
                 "stars": 435
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -288,7 +306,8 @@
                 "owner": "Esri",
                 "repo": "arcgis-rest-js",
                 "stars": 390
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -303,7 +322,8 @@
                 "owner": "riatelab",
                 "repo": "bertin",
                 "stars": 316
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -318,7 +338,8 @@
                 "owner": "Fil",
                 "repo": "d3-geo-voronoi",
                 "stars": 276
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -333,7 +354,8 @@
                 "owner": "eurostat",
                 "repo": "gridviz",
                 "stars": 243
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -348,7 +370,8 @@
                 "owner": "eurostat",
                 "repo": "eurostat-map",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             }
           ],
           "description": "Libraries for creating web maps:",
@@ -369,8 +392,9 @@
                 "last_commit": "2026-08-18T17:02:51Z",
                 "owner": "Turfjs",
                 "repo": "turf",
-                "stars": 10460
-              }
+                "stars": 10462
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -385,7 +409,8 @@
                 "owner": "topojson",
                 "repo": "topojson",
                 "stars": 4904
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -400,7 +425,8 @@
                 "owner": "manuelbieh",
                 "repo": "geolib",
                 "stars": 4278
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -415,7 +441,8 @@
                 "owner": "mourner",
                 "repo": "rbush",
                 "stars": 2770
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -430,7 +457,8 @@
                 "owner": "tmcw",
                 "repo": "awesome-geojson",
                 "stars": 2531
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -445,7 +473,8 @@
                 "owner": "proj4js",
                 "repo": "proj4js",
                 "stars": 2239
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -460,7 +489,8 @@
                 "owner": "mapbox",
                 "repo": "geojson-vt",
                 "stars": 2041
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -475,7 +505,8 @@
                 "owner": "mourner",
                 "repo": "flatbush",
                 "stars": 1597
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -490,7 +521,8 @@
                 "owner": "bjornharrtell",
                 "repo": "jsts",
                 "stars": 1562
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -505,7 +537,8 @@
                 "owner": "HarryStevens",
                 "repo": "geometric",
                 "stars": 1104
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -516,11 +549,12 @@
                 "archived": false,
                 "id": 391153869,
                 "language": "Python",
-                "last_commit": "2026-08-22T12:59:45Z",
+                "last_commit": "2026-08-28T16:15:10Z",
                 "owner": "opengeospatial",
                 "repo": "geoparquet",
                 "stars": 1084
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -534,8 +568,9 @@
                 "last_commit": "2026-05-26T20:17:59Z",
                 "owner": "geotiffjs",
                 "repo": "geotiff.js",
-                "stars": 1044
-              }
+                "stars": 1045
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -550,7 +585,8 @@
                 "owner": "mapbox",
                 "repo": "geobuf",
                 "stars": 1032
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -565,7 +601,8 @@
                 "owner": "flatgeobuf",
                 "repo": "flatgeobuf",
                 "stars": 818
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -580,7 +617,8 @@
                 "owner": "koopjs",
                 "repo": "koop",
                 "stars": 712
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -595,7 +633,8 @@
                 "owner": "alexbol99",
                 "repo": "flatten-js",
                 "stars": 651
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -610,7 +649,8 @@
                 "owner": "arthur-e",
                 "repo": "Wicket",
                 "stars": 590
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -625,7 +665,8 @@
                 "owner": "bugra9",
                 "repo": "gdal3.js",
                 "stars": 431
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -640,7 +681,8 @@
                 "owner": "uber-web",
                 "repo": "math.gl",
                 "stars": 422
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -655,7 +697,8 @@
                 "owner": "springmeyer",
                 "repo": "arc.js",
                 "stars": 385
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -670,7 +713,8 @@
                 "owner": "ngageoint",
                 "repo": "geopackage-js",
                 "stars": 333
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -685,7 +729,8 @@
                 "owner": "urbica",
                 "repo": "galton",
                 "stars": 279
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -700,7 +745,8 @@
                 "owner": "mapbox",
                 "repo": "geojson-merge",
                 "stars": 244
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -715,7 +761,8 @@
                 "owner": "GeoTIFF",
                 "repo": "geoblaze",
                 "stars": 192
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -730,7 +777,8 @@
                 "owner": "jvail",
                 "repo": "spl.js",
                 "stars": 192
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -745,7 +793,8 @@
                 "owner": "mathigon",
                 "repo": "euclid.js",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -760,7 +809,8 @@
                 "owner": "riatelab",
                 "repo": "geotoolbox",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -775,7 +825,8 @@
                 "owner": "riatelab",
                 "repo": "statsbreaks",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             }
           ],
           "description": "Libraries that help you analyse and process geospatial data:",
@@ -796,8 +847,9 @@
                 "last_commit": "2026-01-08T10:01:16Z",
                 "owner": "potree",
                 "repo": "potree",
-                "stars": 5586
-              }
+                "stars": 5587
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -812,7 +864,8 @@
                 "owner": "verma",
                 "repo": "plasio",
                 "stars": 538
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             }
           ],
           "description": "Tools for visualizing point clouds with web browsers:",
@@ -830,11 +883,12 @@
                 "archived": false,
                 "id": 19028976,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T21:15:27Z",
+                "last_commit": "2026-08-28T20:24:33Z",
                 "owner": "nasa-gibs",
                 "repo": "worldview",
-                "stars": 1660
-              }
+                "stars": 1672
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -849,7 +903,8 @@
                 "owner": "awesome-spectral-indices",
                 "repo": "awesome-spectral-indices",
                 "stars": 1170
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -864,7 +919,8 @@
                 "owner": "sentinel-hub",
                 "repo": "custom-scripts",
                 "stars": 702
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -879,7 +935,8 @@
                 "owner": "sentinel-hub",
                 "repo": "sentinelhub-js",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             }
           ],
           "description": "Resources for frontend earth observation and remote sensing:",
@@ -907,7 +964,8 @@
                 "owner": "topojson",
                 "repo": "world-atlas",
                 "stars": 1241
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -922,7 +980,8 @@
                 "owner": "sentinel-hub",
                 "repo": "custom-scripts",
                 "stars": 702
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -937,7 +996,8 @@
                 "owner": "teamookla",
                 "repo": "ookla-open-data",
                 "stars": 313
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             }
           ],
           "description": "Data available for download:",
@@ -959,7 +1019,8 @@
                 "owner": "openskynetwork",
                 "repo": "opensky-api",
                 "stars": 465
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -974,7 +1035,8 @@
                 "owner": "movebank",
                 "repo": "movebank-api-doc",
                 "stars": 192
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -985,11 +1047,12 @@
                 "archived": false,
                 "id": 1183621453,
                 "language": null,
-                "last_commit": "2026-08-20T10:37:58Z",
+                "last_commit": "2026-08-28T18:12:44Z",
                 "owner": "artakulov",
                 "repo": "us-water-quality-data",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             }
           ],
           "description": "Restful APIs for consuming geospatial data on the fly:",
@@ -1007,11 +1070,12 @@
                 "archived": false,
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-27T16:53:23Z",
+                "last_commit": "2026-08-28T16:22:22Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78675
-              }
+                "stars": 78691
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             },
             {
               "node_type": "item",
@@ -1022,11 +1086,12 @@
                 "archived": false,
                 "id": 490985210,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T13:10:01Z",
+                "last_commit": "2026-08-28T11:07:54Z",
                 "owner": "marcelscruz",
                 "repo": "public-apis",
-                "stars": 9393
-              }
+                "stars": 9397
+              },
+              "first_seen": "2026-08-28T20:25:14.108Z"
             }
           ],
           "description": "Compilations and repositories of open geospatial datasets:",
@@ -1048,11 +1113,12 @@
             "archived": false,
             "id": 1251648409,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T17:12:10Z",
+            "last_commit": "2026-08-28T15:23:27Z",
             "owner": "opengeos",
             "repo": "GeoLibre",
-            "stars": 6788
-          }
+            "stars": 6819
+          },
+          "first_seen": "2026-08-28T20:25:14.108Z"
         },
         {
           "node_type": "item",
@@ -1063,11 +1129,12 @@
             "archived": false,
             "id": 85241148,
             "language": "HTML",
-            "last_commit": "2026-08-27T19:03:53Z",
+            "last_commit": "2026-08-28T00:33:17Z",
             "owner": "Azgaar",
             "repo": "Fantasy-Map-Generator",
-            "stars": 5920
-          }
+            "stars": 5928
+          },
+          "first_seen": "2026-08-28T20:25:14.108Z"
         },
         {
           "node_type": "item",
@@ -1082,7 +1149,8 @@
             "owner": "alyssaxuu",
             "repo": "mapus",
             "stars": 3531
-          }
+          },
+          "first_seen": "2026-08-28T20:25:14.108Z"
         },
         {
           "node_type": "item",
@@ -1093,11 +1161,12 @@
             "archived": false,
             "id": 67726921,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T13:55:02Z",
+            "last_commit": "2026-08-28T14:43:29Z",
             "owner": "maplibre",
             "repo": "maputnik",
             "stars": 2613
-          }
+          },
+          "first_seen": "2026-08-28T20:25:14.108Z"
         },
         {
           "node_type": "item",
@@ -1108,11 +1177,12 @@
             "archived": false,
             "id": 40087362,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T14:25:20Z",
+            "last_commit": "2026-08-28T16:33:40Z",
             "owner": "umap-project",
             "repo": "umap",
-            "stars": 1584
-          }
+            "stars": 1586
+          },
+          "first_seen": "2026-08-28T20:25:14.108Z"
         },
         {
           "node_type": "item",
@@ -1127,7 +1197,8 @@
             "owner": "datawrapper",
             "repo": "datawrapper",
             "stars": 1453
-          }
+          },
+          "first_seen": "2026-08-28T20:25:14.108Z"
         },
         {
           "node_type": "item",
@@ -1142,7 +1213,8 @@
             "owner": "anvaka",
             "repo": "peak-map",
             "stars": 642
-          }
+          },
+          "first_seen": "2026-08-28T20:25:14.108Z"
         },
         {
           "node_type": "item",
@@ -1157,7 +1229,8 @@
             "owner": "gpxstudio",
             "repo": "gpxstudio.github.io",
             "stars": 633
-          }
+          },
+          "first_seen": "2026-08-28T20:25:14.108Z"
         },
         {
           "node_type": "item",
@@ -1172,7 +1245,8 @@
             "owner": "verma",
             "repo": "plasio",
             "stars": 538
-          }
+          },
+          "first_seen": "2026-08-28T20:25:14.108Z"
         },
         {
           "node_type": "item",
@@ -1187,7 +1261,8 @@
             "owner": "Juliusolsson05",
             "repo": "pharos-ai",
             "stars": 180
-          }
+          },
+          "first_seen": "2026-08-28T20:25:14.108Z"
         },
         {
           "node_type": "item",
@@ -1201,8 +1276,9 @@
             "last_commit": "2026-08-24T11:44:28Z",
             "owner": "GeiserX",
             "repo": "Pumperly",
-            "stars": 32
-          }
+            "stars": 33
+          },
+          "first_seen": "2026-08-28T20:25:14.108Z"
         }
       ],
       "title": "🌐 Web apps"
@@ -1223,7 +1299,8 @@
             "owner": "riccardoscalco",
             "repo": "textures",
             "stars": 6091
-          }
+          },
+          "first_seen": "2026-08-28T20:25:14.108Z"
         },
         {
           "node_type": "item",
@@ -1238,7 +1315,8 @@
             "owner": "CartoDB",
             "repo": "CartoColor",
             "stars": 236
-          }
+          },
+          "first_seen": "2026-08-28T20:25:14.108Z"
         },
         {
           "node_type": "item",
@@ -1253,7 +1331,8 @@
             "owner": "riatelab",
             "repo": "dicopal.js",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T20:25:14.108Z"
         }
       ],
       "title": "🎨 Colour advice"
@@ -1274,7 +1353,8 @@
             "owner": "Viglino",
             "repo": "font-gis",
             "stars": 324
-          }
+          },
+          "first_seen": "2026-08-28T20:25:14.108Z"
         }
       ],
       "title": "📍 Icons"
@@ -1295,14 +1375,15 @@
             "owner": "uwcartlab",
             "repo": "webmapping",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-28T20:25:14.108Z"
         }
       ],
       "title": "📚 Further reading"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:15:57.141Z",
+    "last_updated": "2026-08-28T20:25:14.108Z",
     "original_repository_info": {
       "archived": false,
       "id": 209321064,
@@ -1310,7 +1391,7 @@
       "last_commit": "2026-08-18T18:05:33Z",
       "owner": "joewdavies",
       "repo": "awesome-frontend-gis",
-      "stars": 850
+      "stars": 851
     },
     "original_repository_sha": "bfa5b37155d812af7e65115248ac30f97fd869b1",
     "enhanced_repository": "enhansome/enhansome-frontend-gis",
