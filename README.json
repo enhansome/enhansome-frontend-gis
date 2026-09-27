@@ -18,10 +18,10 @@
                 "language": "JavaScript",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-09-21T12:53:35Z",
-                "open_issues": 583,
+                "open_issues": 584,
                 "owner": "Leaflet",
                 "repo": "Leaflet",
-                "stars": 45668,
+                "stars": 45671,
                 "topics": [
                   "javascript",
                   "leaflet",
@@ -46,7 +46,7 @@
                 "open_issues": 1687,
                 "owner": "CesiumGS",
                 "repo": "cesium",
-                "stars": 15774,
+                "stars": 15778,
                 "topics": [
                   "3d",
                   "3d-globe",
@@ -106,7 +106,7 @@
                 "open_issues": 856,
                 "owner": "openlayers",
                 "repo": "openlayers",
-                "stars": 12592,
+                "stars": 12594,
                 "topics": [
                   "javascript",
                   "maps",
@@ -131,7 +131,7 @@
                 "open_issues": 1455,
                 "owner": "mapbox",
                 "repo": "mapbox-gl-js",
-                "stars": 12418,
+                "stars": 12421,
                 "topics": [
                   "3d",
                   "javascript",
@@ -154,11 +154,11 @@
                 "id": 319779344,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T11:22:12Z",
-                "open_issues": 290,
+                "last_commit": "2026-09-27T12:08:27Z",
+                "open_issues": 289,
                 "owner": "maplibre",
                 "repo": "maplibre-gl-js",
-                "stars": 11744,
+                "stars": 11754,
                 "topics": [
                   "hacktoberfest",
                   "maplibre",
@@ -186,7 +186,7 @@
                 "open_issues": 121,
                 "owner": "maptalks",
                 "repo": "maptalks.js",
-                "stars": 4535,
+                "stars": 4536,
                 "topics": [
                   "gis",
                   "javascript",
@@ -312,7 +312,7 @@
                 "open_issues": 133,
                 "owner": "vasturiano",
                 "repo": "globe.gl",
-                "stars": 3184,
+                "stars": 3185,
                 "topics": [
                   "data-visualization",
                   "globe",
@@ -367,8 +367,8 @@
                 "id": 17163720,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T14:10:53Z",
-                "open_issues": 883,
+                "last_commit": "2026-09-26T15:27:41Z",
+                "open_issues": 882,
                 "owner": "TerriaJS",
                 "repo": "terriajs",
                 "stars": 1365,
@@ -463,7 +463,7 @@
                 "open_issues": 34,
                 "owner": "d3",
                 "repo": "d3-geo",
-                "stars": 1105,
+                "stars": 1106,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:14.108Z"
@@ -708,7 +708,7 @@
                 "open_issues": 289,
                 "owner": "Turfjs",
                 "repo": "turf",
-                "stars": 10495,
+                "stars": 10496,
                 "topics": [
                   "algorithm",
                   "computational-geometry",
@@ -866,8 +866,8 @@
                 "id": 27469126,
                 "language": "JavaScript",
                 "license": "ISC",
-                "last_commit": "2026-09-05T20:49:38Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-26T18:04:17Z",
+                "open_issues": 11,
                 "owner": "mapbox",
                 "repo": "geojson-vt",
                 "stars": 2078,
@@ -963,7 +963,7 @@
                 "open_issues": 51,
                 "owner": "opengeospatial",
                 "repo": "geoparquet",
-                "stars": 1094,
+                "stars": 1096,
                 "topics": [
                   "apache-parquet",
                   "cloud-native",
@@ -990,7 +990,7 @@
                 "open_issues": 89,
                 "owner": "geotiffjs",
                 "repo": "geotiff.js",
-                "stars": 1052,
+                "stars": 1053,
                 "topics": [
                   "geotiff",
                   "raster-data",
@@ -1015,7 +1015,7 @@
                 "open_issues": 34,
                 "owner": "mapbox",
                 "repo": "geobuf",
-                "stars": 1033,
+                "stars": 1034,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:14.108Z"
@@ -1432,7 +1432,7 @@
                 "open_issues": 822,
                 "owner": "potree",
                 "repo": "potree",
-                "stars": 5618,
+                "stars": 5619,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:14.108Z"
@@ -1513,7 +1513,7 @@
                 "id": 355720108,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-23T09:46:04Z",
+                "last_commit": "2026-09-27T04:29:53Z",
                 "open_issues": 23,
                 "owner": "awesome-spectral-indices",
                 "repo": "awesome-spectral-indices",
@@ -1625,7 +1625,7 @@
                 "open_issues": 12,
                 "owner": "topojson",
                 "repo": "world-atlas",
-                "stars": 1241,
+                "stars": 1240,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:14.108Z"
@@ -1781,7 +1781,7 @@
                 "open_issues": 161,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79163,
+                "stars": 79179,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -1803,11 +1803,11 @@
                 "id": 490985210,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-26T10:33:50Z",
-                "open_issues": 31,
+                "last_commit": "2026-09-27T09:05:26Z",
+                "open_issues": 33,
                 "owner": "marcelscruz",
                 "repo": "public-apis",
-                "stars": 9503,
+                "stars": 9504,
                 "topics": [
                   "apis",
                   "awesome",
@@ -1845,11 +1845,11 @@
             "id": 1251648409,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-26T13:22:04Z",
+            "last_commit": "2026-09-27T13:32:55Z",
             "open_issues": 21,
             "owner": "opengeos",
             "repo": "GeoLibre",
-            "stars": 7669,
+            "stars": 7695,
             "topics": [
               "cesium",
               "data-science",
@@ -1877,11 +1877,11 @@
             "id": 85241148,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T20:39:48Z",
+            "last_commit": "2026-09-27T11:54:43Z",
             "open_issues": 85,
             "owner": "Azgaar",
             "repo": "Fantasy-Map-Generator",
-            "stars": 6028,
+            "stars": 6032,
             "topics": [
               "cartography",
               "dungeons-and-dragons",
@@ -1943,11 +1943,11 @@
             "id": 67726921,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T14:02:11Z",
+            "last_commit": "2026-09-27T13:45:05Z",
             "open_issues": 92,
             "owner": "maplibre",
             "repo": "maputnik",
-            "stars": 2643,
+            "stars": 2646,
             "topics": [
               "cartography",
               "geo",
@@ -1977,7 +1977,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-22T07:21:23Z",
-            "open_issues": 385,
+            "open_issues": 386,
             "owner": "umap-project",
             "repo": "umap",
             "stars": 1603,
@@ -2315,7 +2315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T13:23:15.199Z",
+    "last_updated": "2026-09-27T14:18:22.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "Geospatial resources for web development :earth_africa: 🗺️",
@@ -2327,7 +2327,7 @@
       "open_issues": 11,
       "owner": "joewdavies",
       "repo": "awesome-frontend-gis",
-      "stars": 862,
+      "stars": 864,
       "topics": [
         "arcgis",
         "awesome",
